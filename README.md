@@ -1,6 +1,7 @@
+
 [//]: # (Hello welcome to my project 
   This project is already uploaded to my GitHub Account where I have deployed this project
-  You can find the project here: https://github.com/Kumar-laxmi/Stock-Prediction-System-Application
+  
 )
 
 <img src="./app/static/image/banner.png" alt="STOCK MARKET PREDICTION">
@@ -86,7 +87,7 @@
 ## Project Installation:
 **STEP 1:** Clone the repository from GitHub.
 ```bash
-  git clone https://github.com/Kumar-laxmi/Stock-Prediction-System-Application.git
+  
 ```
 
 **STEP 2:** Change the directory to the repository.
@@ -163,3 +164,6 @@ The Ticker Info page displays the details of all the valid tickers accepted by t
 <p>
 This software is for educational purposes only. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS. Do not risk money which you are afraid to lose. There might be bugs in the code - this software DOES NOT come with ANY warranty!
 </p>
+
+# StockPredict-iStock-
+ 4b3592e08e2b113fb3979d76446cfa346be74484
